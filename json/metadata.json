@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "tags": [
+      "green",
+      "tree",
+      "grass"
+    ]
+  },
+  {
+    "id": 2,
+    "tags": [
+      "water",
+      "tree",
+      "blue"
+    ]
+  },
+  {
+    "id": 3,
+    "tags": [
+      "tree",
+      "green",
+      "rainbow"
+    ]
+  },
+  {
+    "id": 4,
+    "tags": [
+      "tree",
+      "brown",
+      "green",
+      "rocks"
+    ]
+  },
+  {
+    "id": 5,
+    "tags": [
+      "tree",
+      "water"
+    ]
+  },
+  {
+    "id": 6,
+    "tags": [
+      "animal",
+      "brown"
+    ]
+  },
+  {
+    "id": 7,
+    "tags": [
+      "lightning",
+    ]
+  },
+  {
+    "id": 8,
+    "tags": [
+      "rocks",
+      "rainbow"
+    ]
+  },
+  {
+    "id": 9,
+    "tags": [
+      "bird"
+    ]
+  },
+  {
+    "id": 10,
+    "tags": [
+      "bird",
+      "brown"
+    ]
+  }
+]
